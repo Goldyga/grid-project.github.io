@@ -1,1 +1,1 @@
-![alt text](https://github.com/Goldyga/miniapp_Kanban-Board/blob/master/kanban.jpg?raw=true)
+![alt text](https://github.com/Goldyga/website-Company_PSD/blob/master/imageMin/Company.png?raw=true)
