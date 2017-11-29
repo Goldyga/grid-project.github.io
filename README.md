@@ -1,5 +1,6 @@
 # Example Company Website
 I cut this PSD, and coded to html & css. It was a form of trenning use a mainly Grid.
+
 [Live version](https://goldyga.github.io/website-Company_PSD/)
 
 ![alt text](https://github.com/Goldyga/website-Company_PSD/blob/master/imageMin/Company.png?raw=true)
