@@ -7,8 +7,7 @@ I cut this PSD, and coded to html & css. It was a form of trenning use a mainly 
 ## Used
 * GRID
 * HTLM
-* SCSS
-* GRUNT
+* CSS
 * JS
 * RWD
 * BEM
